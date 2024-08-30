@@ -482,6 +482,7 @@ a{
    display: flex;
    align-items: center;
    justify-content: space-between;
+   flex-direction: column;
 }
 .offer .container .h_content .left{
    display: flex;
