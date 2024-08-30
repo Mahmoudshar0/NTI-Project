@@ -250,6 +250,7 @@ a{
    display: flex;
    align-items: center;
    margin-top: 40px;
+   justify-content: space-evenly; 
 }
 .head .right .all a{
    text-decoration: none;
@@ -266,7 +267,6 @@ a{
 }
 .head .right .all a:first-of-type{
    background-color: black;
-   margin-left: 150px;
 }
 .head .right .all a:first-of-type:hover{
    background-color: #F26D22;
